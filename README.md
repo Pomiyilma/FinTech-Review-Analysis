@@ -47,6 +47,21 @@ Final dataset columns:
 - bank
 - source
 
+## Sentiment Analysis
+Mention:
+
+DistilBERT model,
+transformer NLP,
+confidence scoring.
+
+## Thematic Analysis
+Mention:
+
+TF-IDF,
+spaCy,
+preprocessing pipeline,
+manual theme grouping logic
+
 ## Limitations
 
 - Some reviews may be unavailable due to Google Play rate limits.
